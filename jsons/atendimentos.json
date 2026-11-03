@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "data": "22/10/2026 11:12",
+    "queixa_principal": "Dor no peito",
+    "historico_saude": "isso ai",
+    "avaliacao": "nao sei",
+    "prescricao": "isso tmb",
+    "id_horario": 1,
+    "total": 0,
+    "pago": true
+  },
+  {
+    "id": 3,
+    "data": "22/10/2026 11:12",
+    "queixa_principal": "dor",
+    "historico_saude": "dor",
+    "avaliacao": "dor",
+    "prescricao": "dor",
+    "id_horario": 1,
+    "total": 0,
+    "pago": false
+  },
+  {
+    "id": 4,
+    "data": "23/10/2026 11:30",
+    "queixa_principal": "dor",
+    "historico_saude": "dor",
+    "avaliacao": "dor",
+    "prescricao": "dor",
+    "id_horario": 3,
+    "total": 0,
+    "pago": false
+  },
+  {
+    "id": 5,
+    "data": "23/10/2026 11:00",
+    "queixa_principal": "dor",
+    "historico_saude": "dor",
+    "avaliacao": "dor",
+    "prescricao": "dor",
+    "id_horario": 2,
+    "total": 0,
+    "pago": false
+  },
+  {
+    "id": 2,
+    "data": "22/10/2026 11:19",
+    "queixa_principal": "dor",
+    "historico_saude": "dor",
+    "avaliacao": "dor",
+    "prescricao": "dor",
+    "id_horario": 5,
+    "total": 0,
+    "pago": true
+  },
+  {
+    "id": 6,
+    "data": "22/10/2026 11:12",
+    "queixa_principal": "isso ai",
+    "historico_saude": "bem",
+    "avaliacao": "bem",
+    "prescricao": "bem",
+    "id_horario": 1,
+    "total": 0,
+    "pago": false
+  },
+  {
+    "id": 7,
+    "data": "22/10/2026 11:12",
+    "queixa_principal": "isso ai",
+    "historico_saude": "bem",
+    "avaliacao": "bem",
+    "prescricao": "bem",
+    "id_horario": 1,
+    "total": 0,
+    "pago": false
+  }
+]
