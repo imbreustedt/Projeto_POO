@@ -166,4 +166,4 @@ Ao executar o sistema pela primeira vez, a conta do Administrador é criada auto
 
 ## 👤 Autor
 
-Desenvolvido por **[imbreustedt](https://github.com/imbreustedt)**.
+Desenvolvido por **[imbreustedt](https://github.com/imbreustedt)** durante o curso de INFOWEB/2026.
